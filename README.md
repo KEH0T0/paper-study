@@ -1,1 +1,1 @@
-# paper-study
+# AI-paper-study
